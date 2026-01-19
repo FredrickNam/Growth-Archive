@@ -1,5 +1,5 @@
 # DeepLearningFromScracth-SelfDir
-This is a project to luicdate my target
+This is a project to eluicdate my target
 
 What I want to study about is not sure at this point (Jan 9th of 2026)
 
