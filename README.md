@@ -28,13 +28,12 @@ Here is the list of resources I am currently studying or have completed.
 ## 🛠️ Tech Stack
 I am currently focusing on the following technologies:
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=DeepLearning&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=MachineLearning&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Machine_Learning-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/Deep_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
 <br>
 
 ## 📝 Self-Commitment
 1. **No Blind Copying:** Always add comments to explain the logic.
 
 ---
-_First Update:2026.01.09_
+_First Update:2026.01.09_  
 _Last Update: 2026.01.29_
