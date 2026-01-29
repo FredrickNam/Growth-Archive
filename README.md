@@ -10,7 +10,6 @@ Each **folder** in this repository corresponds to a specific **Book** or **Lectu
 Instead of simply copying code, I focus on:
 * **Elucidating** what I want to study in the future.
 * **Understanding** the core concepts.
-* **Refactoring** for better readability.
 * **Documenting** what I learned.
 
 <br>
